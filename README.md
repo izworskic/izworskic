@@ -56,6 +56,16 @@ Full archive at [chrisizworski.com/press](https://chrisizworski.com/press/)
 
 ---
 
+### Featured Repositories
+
+- [chris-izworski-press](https://github.com/izworskic/chris-izworski-press) — Complete archive of press coverage and government records
+- [chris-izworski-ai-911](https://github.com/izworskic/chris-izworski-ai-911) — AI implementation in 911 emergency dispatch
+- [chris-izworski-credentials](https://github.com/izworskic/chris-izworski-credentials) — Professional credentials and career timeline
+- [911-ai-resources](https://github.com/izworskic/911-ai-resources) — Resources for AI in emergency services
+- [michigan-gardening-guides](https://github.com/izworskic/michigan-gardening-guides) — Zone 6a gardening and seed saving
+
+---
+
 ### Find Me Online
 
 | Platform | Link |
