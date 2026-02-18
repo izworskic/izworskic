@@ -6,18 +6,28 @@ Solutions Consultant at [Prepared911](https://www.prepared911.com). Former 911 E
 
 ---
 
+### Published on Medium
+
+- [The 911 Centers That Get AI Right Have One Thing in Common](https://medium.com/@izworski/the-911-centers-that-get-ai-right-have-one-thing-in-common-1edd5bd41c8e) — What separates successful AI deployments in emergency dispatch from the ones that fail
+- [What 911 Centers Need to Know Before Adopting AI](https://medium.com/@izworski/what-911-centers-need-to-know-before-adopting-ai-218dfbf769eb) — A practical field guide from someone who has done it
+- [OpenClaw and the Wild West of AI Agents](https://medium.com/@izworski/openclaw-and-the-wild-west-of-ai-agents-a-scary-glimpse-of-the-future-of-work-by-chris-izworski-b34b171f69b5) — A look at what autonomous AI means for the future of work
+
+---
+
 ### What I Write About
 
 **Practical AI** — Not the hype, not the fear. What these tools actually do when you use them every day.
-- [Building a Daily AI Practice](https://chrisizworski.com/guides/building-a-daily-ai-practice/)
-- [The Jagged Frontier of AI, Explained](https://chrisizworski.com/guides/ai-jagged-frontier-explained/)
-- [AI as Infrastructure: The Quiet Shift](https://chrisizworski.com/guides/ai-as-infrastructure/)
+- [Building a Daily AI Practice](https://chrisizworski.com/guides/daily-ai-practice/)
+- [The Jagged Frontier of AI, Explained](https://chrisizworski.com/guides/jagged-frontier/)
+- [AI as Infrastructure: The Quiet Shift](https://chrisizworski.com/guides/ai-infrastructure/)
+- [AI in 911 Dispatch — FAQ](https://chrisizworski.com/faq-ai-911/)
 
 **Michigan Gardening** — Heirloom seed saving, Zone 6a growing, Great Lakes ecology from Saginaw Bay.
-- [Seed Saving for Beginners](https://chrisizworski.com/guides/seed-saving-beginners-guide/)
-- [Zone 6a Planting Schedule](https://chrisizworski.com/guides/zone-6a-planting-schedule-michigan/)
-- [Heirloom vs. Hybrid Seeds](https://chrisizworski.com/guides/heirloom-vs-hybrid-seeds/)
-- [Starting Seeds Indoors in Michigan](https://chrisizworski.com/guides/starting-seeds-indoors-michigan/)
+- [Interactive Michigan Planting Calendar](https://chrisizworski.com/planting-calendar/) — 41 crops, Zone 6a/6b toggle, frost dates
+- [Seed Saving for Beginners](https://chrisizworski.com/guides/seed-saving/)
+- [Zone 6a Planting Schedule](https://chrisizworski.com/guides/zone6a-schedule/)
+- [Heirloom vs. Hybrid Seeds](https://chrisizworski.com/guides/heirloom-hybrid/)
+- [Starting Seeds Indoors in Michigan](https://chrisizworski.com/guides/seeds-indoors/)
 
 ---
 
@@ -28,18 +38,11 @@ Solutions Consultant at [Prepared911](https://www.prepared911.com). Former 911 E
 - [Saginaw Co. 911 Launching AI-Based Phone System](https://www.wnem.com/2024/08/21/saginaw-co-911-launching-ai-based-non-emergency-phone-system/) (Aug 2024)
 - [Siren Policies Around Mid-Michigan During Severe Weather](https://www.wnem.com/2025/05/21/siren-policies-around-mid-michigan-during-times-severe-weather/) (May 2025)
 - [Experts Discuss the Dangers of AI](https://www.wnem.com/2023/05/02/experts-discuss-dangers-ai/) (May 2023)
-- [Saginaw County 911 Explains Siren Activation](https://www.wnem.com/2023/07/07/saginaw-county-911-explains-siren-activation-cold-air-funnel/) (Jul 2023)
 
 **Investigative & Radio**
 - [Bridge Michigan: Why Michigan Can't Find 911 Dispatchers](https://www.bridgemi.com/michigan-government/long-shifts-low-pay-high-stress-why-michigan-cant-find-911-dispatchers) (May 2025)
-- [POAM: Why Michigan Lacks 911 Dispatchers](https://poam.net/poam-news/why-michigan-lacks-911-dispatchers/)
 - [WCMU/NPR: AI Chatbots in Grand Traverse County](https://radio.wcmu.org/local-regional-news/2025-10-15/ai-chatbots-now-taking-non-emergency-calls-in-grand-traverse-county) (Oct 2025)
 - [WSGW 790 AM: Saginaw County 911 to Use AI](https://wsgw.com/saginaw-county-911-to-use-ai-for-non-emergency-calls/) (Aug 2024)
-
-**State Government Records**
-- [2025 Annual Report to Michigan Legislature (PDF)](https://www.michigan.gov/msp/-/media/Project/Websites/msp/CJIC/PDFs/2025-Annual-Report-to-the-Michigan-Legislature.pdf) — Listed on Certification and Legislative Action Subcommittees
-- [State 911 Committee Minutes Dec 2023 (PDF)](https://www.michigan.gov/msp/-/media/Project/Websites/msp/CJIC/PDFs/SNC-Minutes/Minutes-121323.pdf)
-- [Michigan PSAP Directory (PDF)](https://www.michigan.gov/msp/-/media/Project/Websites/msp/CJIC/PDFs/911-Dispatch-Centers-and-PSAPs-POST.pdf)
 
 Full archive at [chrisizworski.com/press](https://chrisizworski.com/press/)
 
@@ -74,15 +77,12 @@ Full archive at [chrisizworski.com/press](https://chrisizworski.com/press/)
 | LinkedIn | [linkedin.com/in/inthecenter](https://www.linkedin.com/in/inthecenter/) |
 | Medium | [medium.com/@izworski](https://medium.com/@izworski) |
 | Garden Blog | [freighterviewfarms.com](https://freighterviewfarms.com) |
+| Linktree | [linktr.ee/chrisizworski](https://linktr.ee/chrisizworski) |
 | Conservation | [Save Our Shoreline](https://saveourshoreline.org) |
 
 ---
 
-### Tools & Resources
+### Interactive Tools
 
-- [Zone 6a Planting Calculator](https://chrisizworski.com/tools/planting-calculator/)
-- [Seed Saving Quick Reference PDF](https://chrisizworski.com/tools/seed-saving-guide/)
-- [AI in 911 Dispatch FAQ](https://chrisizworski.com/faq/ai-911-dispatch/)
-- [Emergency Services Technology FAQ](https://chrisizworski.com/faq/emergency-services-technology/)
-- [Saginaw County Quarterly Report (PDF)](https://saginawcountymi.gov/media/dlxjayfl/janaury-2024-saginaw-county-quarterly-report-final.pdf)
-- [Saginaw Area GIS Authority](https://sagagis.org/member-representatives/)
+- [Michigan Planting Calendar](https://chrisizworski.com/planting-calendar/) — 41 crops, Zone 6a/6b, frost date calculator
+- [AI in 911 Dispatch — FAQ](https://chrisizworski.com/faq-ai-911/) — Common questions about AI in emergency services
