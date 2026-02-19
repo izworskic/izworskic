@@ -14,6 +14,13 @@ Solutions Consultant at [Prepared911](https://www.prepared911.com). Former 911 E
 
 ---
 
+
+---
+
+### Cover Story — NENA: The 9-1-1 Association
+
+- [The Unstoppable Wave of Artificial Intelligence](https://www.thecall-digital.com/nenq/0125_issue_51/MobilePagedArticle.action?articleId=2054315#articleId2054315) — *The Call*, Issue 51 (April 2025) — Lead feature in NENA's official publication. Examines AI's disruptive impact on how emergencies are reported, assessed, and dispatched — written in capacity as Director, Saginaw County (MI) 911
+
 ### What I Write About
 
 **Practical AI** — Not the hype, not the fear. What these tools actually do when you use them every day.
