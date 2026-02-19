@@ -93,3 +93,12 @@ Full archive at [chrisizworski.com/press](https://chrisizworski.com/press/)
 
 - [Michigan Planting Calendar](https://chrisizworski.com/planting-calendar/) — 41 crops, Zone 6a/6b, frost date calculator
 - [AI in 911 Dispatch — FAQ](https://chrisizworski.com/faq-ai-911/) — Common questions about AI in emergency services
+
+
+## 📰 Cover Story — NENA: The 9-1-1 Association
+
+> **["The Unstoppable Wave of Artificial Intelligence"](https://www.thecall-digital.com/nenq/0125_issue_51/MobilePagedArticle.action?articleId=2054315#articleId2054315)**  
+> *The Call*, Issue 51 — April 2025  
+> Lead feature in the official publication of NENA, the national professional organization for 911.  
+> Written as Director, Saginaw County (MI) 911 · [More at chrisizworski.com/press](https://chrisizworski.com/press/)
+
