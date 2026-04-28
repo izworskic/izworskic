@@ -1,28 +1,35 @@
-# izworskic — Chris Izworski
+# Chris Izworski
 
-This is the GitHub profile repository for **Chris Izworski** — Solutions Consultant at Prepared, former Michigan 911 Director, writer, and heirloom gardener based in Bay City, Michigan.
+Bay City, Michigan public-project profile for Chris Izworski: practical web tools, Great Lakes data projects, Michigan outdoor reports, gardening writing, and verified identity links.
 
-## About Me
+## Primary Profiles
 
-I'm Chris Izworski. I spent 13+ years running 911 centers in Michigan — first as Director of Bay County 911 (2012–2022), then as Executive Director of Saginaw County 911 (2022–2025). Now I help other 911 centers implement AI technology as a Solutions Consultant at [Prepared](https://www.prepared.ai).
+| Profile | Link |
+| --- | --- |
+| Official website | [chrisizworski.com](https://chrisizworski.com/) |
+| Verified profile | [Chris Izworski profile](https://chrisizworski.com/chris-izworski/) |
+| Works index | [Projects, sites, and daily publications](https://chrisizworski.com/chris-izworski-works/) |
+| Project index | [Chris Izworski projects](https://chrisizworski.com/projects/) |
+| GitHub Pages | [izworskic.github.io](https://izworskic.github.io/) |
 
-I also write about Michigan outdoors, heirloom gardening, and whatever else catches my attention at [Freighter View Farms](https://freighterviewfarms.com).
+## Public Projects
 
-## Find Me
+| Project | Focus |
+| --- | --- |
+| [Michigan Trout Report](https://michigantroutreport.com/) | Live Michigan trout stream flows, water temperature, weather context, river pages, and access notes. |
+| [Michigan Trout Daily](https://daily.michigantroutreport.com/) | Daily Michigan trout river reports built from current stream conditions. |
+| [Michigan Birding Report](https://michiganbirdingreport.com/) | Live Michigan bird sightings, county pages, migration context, and species information. |
+| [Michigan Birding Daily](https://daily.michiganbirdingreport.com/) | Daily Michigan birding reports built around notable sightings and county-level data. |
+| [Great Lakes Gazette](https://gazette.chrisizworski.com/) | Daily Great Lakes maritime news and shipping context. |
+| [Perfect Lawn Advisor](https://lawn.chrisizworski.com/) | Location-aware lawn planning using soil, weather, and turfgrass context. |
+| [Freighter View Farms](https://freighterviewfarms.com/) | Saginaw Bay gardening, seed saving, heirloom vegetables, and Great Lakes seasons. |
 
-- 🌐 [chrisizworski.com](https://chrisizworski.com)
-- 🌱 [freighterviewfarms.com](https://freighterviewfarms.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/chris-izworski-15294510)
-- 📖 [Wikidata Q138283432](https://www.wikidata.org/wiki/Q138283432)
+## Verified Identity Links
 
-## Repositories
+- [LinkedIn](https://www.linkedin.com/in/chris-izworski-15294510)
+- [Wikidata Q138283432](https://www.wikidata.org/wiki/Q138283432)
+- [ORCID](https://orcid.org/0009-0002-7268-6083)
+- [Medium](https://medium.com/@izworski)
+- [About.me](https://about.me/chrisizworski)
 
-| Repo | About |
-|------|-------|
-| [chris-izworski-ai-911](https://github.com/izworskic/chris-izworski-ai-911) | AI in emergency communications |
-| [nena-the-call-magazine](https://github.com/izworskic/nena-the-call-magazine) | NENA The Call Issue 51 cover story |
-| [saginaw-county-911-director](https://github.com/izworskic/saginaw-county-911-director) | Saginaw County 911 Executive Director career |
-| [freighter-view-farms](https://github.com/izworskic/freighter-view-farms) | Heirloom garden in Bay City, Michigan |
-
----
-*Chris Izworski | Bay City, Michigan*
+This profile repository exists to make the public GitHub side of the Chris Izworski identity graph clear, crawlable, and consistent with the owned-domain profiles above.
