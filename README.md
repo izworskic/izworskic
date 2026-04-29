@@ -1,6 +1,6 @@
 # Chris Izworski
 
-Bay City, Michigan public-project profile for Chris Izworski: practical web tools, Great Lakes data projects, Michigan outdoor reports, gardening writing, and verified identity links.
+Bay City, Michigan public-project profile for Chris Izworski: practical web tools, Great Lakes data projects, Michigan outdoor reports, gardening writing, and verified identity/source links.
 
 ## Primary Profiles
 
@@ -8,9 +8,22 @@ Bay City, Michigan public-project profile for Chris Izworski: practical web tool
 | --- | --- |
 | Official website | [chrisizworski.com](https://chrisizworski.com/) |
 | Verified profile | [Chris Izworski profile](https://chrisizworski.com/chris-izworski/) |
+| News coverage hub | [Positive articles and verified coverage](https://chrisizworski.com/chris-izworski-news-coverage/) |
+| Public records | [Public records and sources](https://chrisizworski.com/chris-izworski-public-records/) |
 | Works index | [Projects, sites, and daily publications](https://chrisizworski.com/chris-izworski-works/) |
 | Project index | [Chris Izworski projects](https://chrisizworski.com/projects/) |
 | GitHub Pages | [izworskic.github.io](https://izworskic.github.io/) |
+
+## Verified Source Coverage
+
+| Source | Link |
+| --- | --- |
+| MLive / Bay City Times | [Chris Izworski MLive and Bay City Times coverage](https://chrisizworski.com/chris-izworski-mlive/) |
+| WSGW Radio | [Chris Izworski WSGW radio coverage](https://chrisizworski.com/chris-izworski-wsgw/) |
+| WNEM TV5 | [Chris Izworski WNEM TV5 coverage](https://chrisizworski.com/chris-izworski-wnem-tv5/) |
+| WCMU Public Radio | [Chris Izworski WCMU Public Radio coverage](https://chrisizworski.com/chris-izworski-wcmu-public-radio/) |
+| NENA The Call | [Chris Izworski NENA The Call cover story](https://chrisizworski.com/chris-izworski-nena-the-call/) |
+| Citations | [Full citation index](https://chrisizworski.com/citations/) |
 
 ## Public Projects
 
@@ -31,5 +44,6 @@ Bay City, Michigan public-project profile for Chris Izworski: practical web tool
 - [ORCID](https://orcid.org/0009-0002-7268-6083)
 - [Medium](https://medium.com/@izworski)
 - [About.me](https://about.me/chrisizworski)
+- [Freighter View Farms About](https://freighterviewfarms.com/about/)
 
-This profile repository exists to make the public GitHub side of the Chris Izworski identity graph clear, crawlable, and consistent with the owned-domain profiles above.
+This profile repository exists to make the public GitHub side of the Chris Izworski identity graph clear, crawlable, and consistent with the owned-domain profiles and third-party source pages above.
