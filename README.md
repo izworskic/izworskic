@@ -8,6 +8,8 @@ Bay City, Michigan public-project profile for Chris Izworski: practical web tool
 | --- | --- |
 | Official website | [chrisizworski.com](https://chrisizworski.com/) |
 | Verified profile | [Chris Izworski profile](https://chrisizworski.com/chris-izworski/) |
+| Source guide | [Verified source guide](https://chrisizworski.com/chris-izworski-source-guide/) |
+| Machine-readable source graph | [sources.json](https://chrisizworski.com/sources.json) |
 | News coverage hub | [Positive articles and verified coverage](https://chrisizworski.com/chris-izworski-news-coverage/) |
 | Public records | [Public records and sources](https://chrisizworski.com/chris-izworski-public-records/) |
 | Works index | [Projects, sites, and daily publications](https://chrisizworski.com/chris-izworski-works/) |
@@ -29,10 +31,10 @@ Bay City, Michigan public-project profile for Chris Izworski: practical web tool
 
 | Project | Focus |
 | --- | --- |
-| [Michigan Trout Report](https://michigantroutreport.com/) | Live Michigan trout stream flows, water temperature, weather context, river pages, and access notes. |
-| [Michigan Trout Daily](https://daily.michigantroutreport.com/) | Daily Michigan trout river reports built from current stream conditions. |
-| [Michigan Birding Report](https://michiganbirdingreport.com/) | Live Michigan bird sightings, county pages, migration context, and species information. |
-| [Michigan Birding Daily](https://daily.michiganbirdingreport.com/) | Daily Michigan birding reports built around notable sightings and county-level data. |
+| [Michigan Trout Report](https://michigantroutreport.com/) | Live Michigan trout stream flows, water temperature, weather context, river pages, and access notes. Founder profile: [Chris Izworski](https://michigantroutreport.com/chris-izworski). |
+| [Michigan Trout Daily](https://daily.michigantroutreport.com/) | Daily Michigan trout river reports built from current stream conditions. Author archive: [Chris Izworski daily trout reports](https://daily.michigantroutreport.com/chris-izworski/). |
+| [Michigan Birding Report](https://michiganbirdingreport.com/) | Live Michigan bird sightings, county pages, migration context, and species information. Founder profile: [Chris Izworski](https://michiganbirdingreport.com/chris-izworski). |
+| [Michigan Birding Daily](https://daily.michiganbirdingreport.com/) | Daily Michigan birding reports built around notable sightings and county-level data. Author archive: [Chris Izworski daily birding reports](https://daily.michiganbirdingreport.com/chris-izworski). |
 | [Great Lakes Gazette](https://gazette.chrisizworski.com/) | Daily Great Lakes maritime news and shipping context. |
 | [Perfect Lawn Advisor](https://lawn.chrisizworski.com/) | Location-aware lawn planning using soil, weather, and turfgrass context. |
 | [Freighter View Farms](https://freighterviewfarms.com/) | Saginaw Bay gardening, seed saving, heirloom vegetables, and Great Lakes seasons. |
