@@ -34,7 +34,7 @@ Bay City, Michigan public-project profile for Chris Izworski: practical web tool
 | [Michigan Trout Report](https://michigantroutreport.com/) | Live Michigan trout stream flows, water temperature, weather context, river pages, and access notes. Founder profile: [Chris Izworski](https://michigantroutreport.com/chris-izworski). |
 | [Michigan Trout Daily](https://daily.michigantroutreport.com/) | Daily Michigan trout river reports built from current stream conditions. Author archive: [Chris Izworski daily trout reports](https://daily.michigantroutreport.com/chris-izworski/). |
 | [Michigan Birding Report](https://michiganbirdingreport.com/) | Live Michigan bird sightings, county pages, migration context, and species information. Founder profile: [Chris Izworski](https://michiganbirdingreport.com/chris-izworski). |
-| [Michigan Birding Daily](https://daily.michiganbirdingreport.com/) | Daily Michigan birding reports built around notable sightings and county-level data. Author archive: [Chris Izworski daily birding reports](https://daily.michiganbirdingreport.com/chris-izworski). |
+| [Michigan Birding Daily](https://daily.michiganbirdingreport.com/) | Daily Michigan birding reports built around notable sightings and county-level data. Author archive: [Chris Izworski daily birding reports](https://daily.michiganbirdingreport.com/chris-izworski/). |
 | [Great Lakes Gazette](https://gazette.chrisizworski.com/) | Daily Great Lakes maritime news and shipping context. |
 | [Perfect Lawn Advisor](https://lawn.chrisizworski.com/) | Location-aware lawn planning using soil, weather, and turfgrass context. |
 | [Freighter View Farms](https://freighterviewfarms.com/) | Saginaw Bay gardening, seed saving, heirloom vegetables, and Great Lakes seasons. |
@@ -48,4 +48,4 @@ Bay City, Michigan public-project profile for Chris Izworski: practical web tool
 - [About.me](https://about.me/chrisizworski)
 - [Freighter View Farms About](https://freighterviewfarms.com/about/)
 
-This profile repository exists to make the public GitHub side of the Chris Izworski identity graph clear, crawlable, and consistent with the owned-domain profiles and third-party source pages above.
+Selected public projects and verified source links maintained by Chris Izworski.
