@@ -1,55 +1,51 @@
 # Chris Izworski
 
-Bay City, Michigan public-project profile for **Chris Izworski**. I build practical web tools around Michigan, the Great Lakes, outdoor conditions, gardening, and public-safety technology.
+Bay City, Michigan public-project profile for Chris Izworski: practical web tools, Great Lakes data projects, Michigan outdoor reports, gardening writing, and verified identity/source links.
 
-My canonical profile and source-backed biography are maintained at **[chrisizworski.com](https://chrisizworski.com/)**. This GitHub profile is the developer/project side of the same public identity.
-
-## Verified Chris Izworski profiles
+## Primary Profiles
 
 | Profile | Link |
 | --- | --- |
 | Official website | [chrisizworski.com](https://chrisizworski.com/) |
 | Verified profile | [Chris Izworski profile](https://chrisizworski.com/chris-izworski/) |
-| LinkedIn | [Chris Izworski on LinkedIn](https://www.linkedin.com/in/chris-izworski-15294510) |
-| GitHub Pages | [Chris Izworski public project profile](https://izworskic.github.io/) |
-| ORCID | [0009-0002-7268-6083](https://orcid.org/0009-0002-7268-6083) |
-| About.me | [about.me/chrisizworski](https://about.me/chrisizworski) |
-| Medium | [medium.com/@izworski](https://medium.com/@izworski) |
-| YouTube | [youtube.com/@izworskic](https://www.youtube.com/@izworskic) |
-| Wikidata | [Q138283432](https://www.wikidata.org/wiki/Q138283432) |
+| Source guide | [Verified source guide](https://chrisizworski.com/chris-izworski-source-guide/) |
+| Machine-readable source graph | [sources.json](https://chrisizworski.com/sources.json) |
+| News coverage hub | [Positive articles and verified coverage](https://chrisizworski.com/chris-izworski-news-coverage/) |
+| Public records | [Public records and sources](https://chrisizworski.com/chris-izworski-public-records/) |
+| Works index | [Projects, sites, and daily publications](https://chrisizworski.com/chris-izworski-works/) |
+| Project index | [Chris Izworski projects](https://chrisizworski.com/projects/) |
+| GitHub Pages | [izworskic.github.io](https://izworskic.github.io/) |
 
-## Independent project profiles
+## Verified Source Coverage
 
-These are separate Chris-owned project domains with distinct purposes and their own Chris Izworski founder/author pages.
+| Source | Link |
+| --- | --- |
+| MLive / Bay City Times | [Chris Izworski MLive and Bay City Times coverage](https://chrisizworski.com/chris-izworski-mlive/) |
+| WSGW Radio | [Chris Izworski WSGW radio coverage](https://chrisizworski.com/chris-izworski-wsgw/) |
+| WNEM TV5 | [Chris Izworski WNEM TV5 coverage](https://chrisizworski.com/chris-izworski-wnem-tv5/) |
+| WCMU Public Radio | [Chris Izworski WCMU Public Radio coverage](https://chrisizworski.com/chris-izworski-wcmu-public-radio/) |
+| NENA The Call | [Chris Izworski NENA The Call cover story](https://chrisizworski.com/chris-izworski-nena-the-call/) |
+| Citations | [Full citation index](https://chrisizworski.com/citations/) |
 
-| Project | Chris Izworski profile | Focus |
-| --- | --- | --- |
-| Michigan Trout Report | [Founder profile](https://michigantroutreport.com/chris-izworski/) | Live Michigan trout-stream data, river conditions, fishing context |
-| Michigan Birding Report | [Founder profile](https://michiganbirdingreport.com/chris-izworski) | Michigan bird sightings, migration, Saginaw Bay birding |
-| Great Lakes Levels | [Founder profile](https://greatlakeslevels.org/chris-izworski) | Great Lakes water levels and shoreline context |
-| Freighter View Farms | [About Chris](https://freighterviewfarms.com/about/) | Gardening, seed saving, heirloom vegetables, Great Lakes seasons |
+## Public Projects
 
-## Current public projects
+| Project | Focus |
+| --- | --- |
+| [Michigan Trout Report](https://michigantroutreport.com/) | Live Michigan trout stream flows, water temperature, weather context, river pages, and access notes. Founder profile: [Chris Izworski](https://michigantroutreport.com/chris-izworski). |
+| [Michigan Trout Daily](https://daily.michigantroutreport.com/) | Daily Michigan trout river reports built from current stream conditions. Author archive: [Chris Izworski daily trout reports](https://daily.michigantroutreport.com/chris-izworski/). |
+| [Michigan Birding Report](https://michiganbirdingreport.com/) | Live Michigan bird sightings, county pages, migration context, and species information. Founder profile: [Chris Izworski](https://michiganbirdingreport.com/chris-izworski). |
+| [Michigan Birding Daily](https://daily.michiganbirdingreport.com/) | Daily Michigan birding reports built around notable sightings and county-level data. Author archive: [Chris Izworski daily birding reports](https://daily.michiganbirdingreport.com/chris-izworski/). |
+| [Great Lakes Gazette](https://gazette.chrisizworski.com/) | Daily Great Lakes maritime news and shipping context. |
+| [Perfect Lawn Advisor](https://lawn.chrisizworski.com/) | Location-aware lawn planning using soil, weather, and turfgrass context. |
+| [Freighter View Farms](https://freighterviewfarms.com/) | Saginaw Bay gardening, seed saving, heirloom vegetables, and Great Lakes seasons. |
 
-- [Michigan Trout Report](https://michigantroutreport.com/) — live stream flow, water temperature, weather context, river pages, and access information.
-- [Michigan Birding Report](https://michiganbirdingreport.com/) — recent sightings, county pages, migration context, and species information.
-- [Great Lakes Levels](https://greatlakeslevels.org/) — current Great Lakes water levels in historical and shoreline context.
-- [Great Lakes Gazette](https://gazette.chrisizworski.com/) — Great Lakes maritime and shipping reporting.
-- [Freighter View Farms](https://freighterviewfarms.com/) — Saginaw Bay gardening, seed saving, and seasonal writing.
-- [Chris Izworski project index](https://chrisizworski.com/projects/) — the wider set of public tools and sites.
+## Verified Identity Links
 
-## Source-backed public record
+- [LinkedIn](https://www.linkedin.com/in/chris-izworski-15294510)
+- [Wikidata Q138283432](https://www.wikidata.org/wiki/Q138283432)
+- [ORCID](https://orcid.org/0009-0002-7268-6083)
+- [Medium](https://medium.com/@izworski)
+- [About.me](https://about.me/chrisizworski)
+- [Freighter View Farms About](https://freighterviewfarms.com/about/)
 
-The main site maintains the supporting source graph so this GitHub profile does not have to duplicate a biography or press archive:
-
-- [Chris Izworski Source Guide](https://chrisizworski.com/chris-izworski-source-guide/)
-- [News coverage and positive articles](https://chrisizworski.com/chris-izworski-news-coverage/)
-- [Public records and sources](https://chrisizworski.com/chris-izworski-public-records/)
-- [Works and publications](https://chrisizworski.com/chris-izworski-works/)
-- [Citation index](https://chrisizworski.com/citations/)
-
-Selected independent coverage includes MLive / Bay City Times, WNEM TV5, WCMU Public Radio, WSGW, Bridge Michigan, NENA, and Michigan public records. The source guide above links to the underlying records.
-
----
-
-**Chris Izworski** · Bay City, Michigan · [chrisizworski.com](https://chrisizworski.com/)
+Selected public projects and verified source links maintained by Chris Izworski.
