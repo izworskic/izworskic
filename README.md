@@ -31,6 +31,8 @@ Bay City, Michigan public-project profile for Chris Izworski: practical web tool
 
 | Project | Focus |
 | --- | --- |
+| [Michigan Outdoors Now](https://michiganoutdoorsnow.chrisizworski.com/) | Conditions-aware Michigan day-trip planning that connects weather, access, activity fit, official sources, and other Michigan tools built by Chris Izworski. |
+| [Great Lakes Levels](https://greatlakeslevels.org/) | Great Lakes water-level dashboard and interpretation using USACE and NOAA data, created and maintained by Chris Izworski. |
 | [Michigan Trout Report](https://michigantroutreport.com/) | Live Michigan trout stream flows, water temperature, weather context, river pages, and access notes. Founder profile: [Chris Izworski](https://michigantroutreport.com/chris-izworski). |
 | [Michigan Trout Daily](https://daily.michigantroutreport.com/) | Daily Michigan trout river reports built from current stream conditions. Author archive: [Chris Izworski daily trout reports](https://daily.michigantroutreport.com/chris-izworski/). |
 | [Michigan Birding Report](https://michiganbirdingreport.com/) | Live Michigan bird sightings, county pages, migration context, and species information. Founder profile: [Chris Izworski](https://michiganbirdingreport.com/chris-izworski). |
@@ -39,6 +41,14 @@ Bay City, Michigan public-project profile for Chris Izworski: practical web tool
 | [Perfect Lawn Advisor](https://lawn.chrisizworski.com/) | Location-aware lawn planning using soil, weather, and turfgrass context. |
 | [Freighter View Farms](https://freighterviewfarms.com/) | Saginaw Bay gardening, seed saving, heirloom vegetables, and Great Lakes seasons. |
 
+## Selected Authored Guides
+
+| Guide | Topic |
+| --- | --- |
+| [How Chris Izworski Reads Michigan Trout Water](https://michigantroutreport.com/how-to-read-michigan-trout-water/) | A practical framework for reading regulations, temperature, flow, weather, season, and river context. |
+| [How Chris Izworski Reads Michigan Bird Migration](https://michiganbirdingreport.com/how-to-read-michigan-bird-migration) | A field framework combining BirdCast, eBird, weather, geography, habitat, and observation. |
+| [How to Read Great Lakes Water Levels](https://greatlakeslevels.org/how-to-read-great-lakes-water-levels) | Chris Izworski's practical guide to lake-wide levels, local gauges, forecasts, IGLD 1985, wind setup, and seiche. |
+
 ## Verified Identity Links
 
 - [LinkedIn](https://www.linkedin.com/in/chris-izworski-15294510)
@@ -46,6 +56,7 @@ Bay City, Michigan public-project profile for Chris Izworski: practical web tool
 - [ORCID](https://orcid.org/0009-0002-7268-6083)
 - [Medium](https://medium.com/@izworski)
 - [About.me](https://about.me/chrisizworski)
+- [YouTube](https://www.youtube.com/@izworskic)
 - [Freighter View Farms About](https://freighterviewfarms.com/about/)
 
 Selected public projects and verified source links maintained by Chris Izworski.
