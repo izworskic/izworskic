@@ -2,6 +2,16 @@
 
 Bay City, Michigan public-project profile for Chris Izworski: practical web tools, Great Lakes data projects, Michigan outdoor reports, gardening writing, and verified identity/source links.
 
+## Current Build: Michigan Outdoors Now and Trail Truth
+
+[Michigan Outdoors Now](https://michiganoutdoorsnow.chrisizworski.com/) is the current flagship outdoor-planning build: a Michigan day-trip planner that combines drive time, weather, official trail/access evidence, and route-specific Trail Truth.
+
+The Trail Truth catalog currently contains **127 verified route profiles**, **52 named trailheads**, **23 official entry points**, and **23 multi-route destinations**. The live planner keeps official land-manager mileage separate from current weather, access changes, mapped geometry, and uncertainty rather than blending them into a black-box score.
+
+- [Open Michigan Outdoors Now](https://michiganoutdoorsnow.chrisizworski.com/)
+- [Chris Izworski verified profile](https://chrisizworski.com/chris-izworski/)
+- [Chris Izworski project index](https://chrisizworski.com/projects/)
+
 ## Primary Profiles
 
 | Profile | Link |
