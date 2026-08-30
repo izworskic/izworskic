@@ -42,6 +42,7 @@ The Trail Truth catalog currently contains **127 verified route profiles**, **52
 | Project | Focus |
 | --- | --- |
 | [Michigan Outdoors Now](https://michiganoutdoorsnow.chrisizworski.com/) | Conditions-aware Michigan day-trip planning that connects weather, access, activity fit, official sources, and other Michigan tools built by Chris Izworski. |
+| [Traverse City Wine Country](https://tcwine.chrisizworski.com/) | Traverse City and Leelanau winery map and routed day planner, created and maintained by Chris Izworski. |
 | [Great Lakes Levels](https://greatlakeslevels.org/) | Great Lakes water-level dashboard and interpretation using USACE and NOAA data, created and maintained by Chris Izworski. |
 | [Michigan Trout Report](https://michigantroutreport.com/) | Live Michigan trout stream flows, water temperature, weather context, river pages, and access notes. Founder profile: [Chris Izworski](https://michigantroutreport.com/chris-izworski). |
 | [Michigan Trout Daily](https://daily.michigantroutreport.com/) | Daily Michigan trout river reports built from current stream conditions. Author archive: [Chris Izworski daily trout reports](https://daily.michigantroutreport.com/chris-izworski/). |
